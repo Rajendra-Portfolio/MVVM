@@ -31,6 +31,16 @@ Android architecture as per the google guideline
 1. Dragger 
 2. Koltin Co-routine
 3. Live Data 
+4. Unit testing 
+5. Instrumental testing
+
+## Unit testing 
+
+It include the response of API and repo. 
+
+## Instruemental testing    
+
+In instruement testing I am testing the insert operation.
 
 ## The project screenshot 
 
